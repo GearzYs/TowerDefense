@@ -2,7 +2,7 @@
 
 ## How to run it ?
 
-Click on this link :
+Click on this link : https://gearzys.github.io/tower_defense
 If you want to run it locally, symply clone this git and start a new LiveServer on it.
 
 ## Règles
