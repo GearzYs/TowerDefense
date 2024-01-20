@@ -48,43 +48,7 @@ Le modèle MVC favorise donc la séparation des préoccupations (separation of c
 ## Organisation des fichiers et répertoires
 
 ./TowerDefense
-│   favicon.png
-│   index.html
-│   main.js
-│   style.css
-│
-├───assets
-│       1TowerFrame.png
-│       1ZombieSpriteSheet.png
-│       2TowerFrame.png
-│       2ZombieSpriteSheet.png
-│       8bit.mp3
-│       coin.png
-│       enemydeath.mp3
-│       grass.png
-│       tower.wav
-│
-├───controllers
-│       GameController.js
-│       TowerBuilder.js
-│       UpdateEntities.js
-│       ZombieFactory.js
-│
-├───models
-│       Bullet.js
-│       Cell.js
-│       Money.js
-│       Tower.js
-│       Zombie.js
-│
-├───utilities
-│       Collision.js
-│       GameOverObserver.js
-│
-└───views
-│       CanvasView.js
-│       DrawEntities.js
-│       GameStatus.js
+![repoTree](https://i.ibb.co/mD8d077/image.png)
 
 Le code est organisé sous le model MVC en plusieurs répertoires : assets, controllers, models, utilities, et views.
 Chaque répertoire contient des fichiers spécifiques aux fonctions qu'ils exécutent dans le jeu.
