@@ -5,6 +5,8 @@
 Click on this link : https://gearzys.github.io/tower_defense
 If you want to run it locally, symply clone this git and start a new LiveServer on it.
 
+Tests are carried out on a number of browsers to ensure that the game works properly. You can find the screenshot test results in the "Screenshots tests" folder.
+
 ## Règles
 
 Un jeu de tower defense, comporte plusieurs éléments et règles. Voici une explication simplifiée des principes de base :
